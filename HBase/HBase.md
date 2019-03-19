@@ -198,7 +198,7 @@ create '表名' ,‘列名’,‘列名’,‘列名’
 
 - 添加数据
 
-![](/Users/fang/Documents/markdown-笔记/HBase/HBase-Java API-添加数据.png)
+![](https://github.com/ffffffllllll/bigDataStudy/blob/master/HBase/HBase-Java%20API-%E6%B7%BB%E5%8A%A0%E6%95%B0%E6%8D%AE.png)
 
 指定参数
 
